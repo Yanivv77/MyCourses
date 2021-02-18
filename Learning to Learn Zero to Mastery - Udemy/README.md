@@ -2,26 +2,26 @@ The Principles
 
 The section establishes some useful principles for motivated self-learners.
 
-    Learning vs. Winning The System
-    shift from trying to win the game (get good grades, get a promotion) to a mindset of long-term learning (see “The Lesson to Unlearn” by Paul Graham)
-    define your measure of success
-    you need drive and persistence
-    embrace the obstacle: you’ll be bad first until you get good
-    know when to quit, make a smart choice (not everyone can become an Olympic athlete)
-    compound learning: learn in chunks instead of cramming
-    improve by 1% every day
-    failures don’t count against you: people know you right now, they don’t care about the test you failed five years ago
-    use failure as a feedback loop
-    mindset: choice vs. chore: shift your focus from “I must do that” to “I want to do that.”
-    framing: use a frame/context to change your perspective
-    Pareto principle (80/20 rule): eliminate until you’ve boiled it down the essentials
-    focus on the critical 20% and make efficient use of your time
-    Robert Greene - “Mastery”: 3 principles: curiosity, value learning about all else, skill-stacking (uniquely combine your skills)
-    the trick is to have skills that work well together, but are varied enough to allow you to stand out (avoid the most obvious path)
-    happiness factors: identify the areas/things/people that make you happy - if you’re happy, you will be able to learn better
-    monitor your happiness factors
-    productivity time: find the time where you are most productive
-    self-learning paradigm: find your identity as a self-learner
+   *Learning vs. Winning The System
+   *shift from trying to win the game (get good grades, get a promotion) to a mindset of long-term learning (see “The Lesson to Unlearn” by Paul Graham)
+   *define your measure of success
+   *you need drive and persistence
+   *embrace the obstacle: you’ll be bad first until you get good
+   *know when to quit, make a smart choice (not everyone can become an Olympic athlete)
+   *compound learning: learn in chunks instead of cramming
+   *improve by 1% every day
+   *failures don’t count against you: people know you right now, they don’t care about the test you failed five years ago
+   *use failure as a feedback loop
+   *mindset: choice vs. chore: shift your focus from “I must do that” to “I want to do that.”
+   *framing: use a frame/context to change your perspective
+   *Pareto principle (80/20 rule): eliminate until you’ve boiled it down the essentials
+   *focus on the critical 20% and make efficient use of your time
+   *Robert Greene - “Mastery”: 3 principles: curiosity, value learning about all else, skill-stacking (uniquely combine your skills)
+   *the trick is to have skills that work well together, but are varied enough to allow you to stand out (avoid the most obvious path)
+   *happiness factors: identify the areas/things/people that make you happy - if you’re happy, you will be able to learn better
+   *monitor your happiness factors
+   *productivity time: find the time where you are most productive
+   *self-learning paradigm: find your identity as a self-learner
 
 The Lies
 
