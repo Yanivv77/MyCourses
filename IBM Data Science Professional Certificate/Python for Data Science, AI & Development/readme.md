@@ -1,4 +1,0 @@
-
-![](certificate.PNG)
-
-
