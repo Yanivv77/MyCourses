@@ -6,7 +6,12 @@
 1. Foundations Data, Data, Everywhere
 2. Ask Questions Make Decisions
 3. 
-4. 
+4.
+5.
+6.
+7.
+8.
+
 ***
 
 
@@ -18,9 +23,13 @@
 3. Applied Machine Learning in Python
 4. Applied Text Mining in Python
 5. Applied Social Network Analysis in Python
+
+## UM Applied Data Science with Python Specialization
+1. Understanding and Visualizing Data with Python
+2. Inferential Statistical Analysis with Python
+3. Fitting Statistical Models to Data with Python
+
 ***
-
-
 
 
 # IBM
@@ -50,7 +59,6 @@
 3. Python Project for Data Engineering
 4. Introduction to Relational Databases (RDBMS)
 5. Databases and SQL for Data Science with Python
-6. 
 
 ## IBM Data Science Fundamentals with Python and SQL Specialization
 1. Tools for Data Science
@@ -59,11 +67,31 @@
 4. Statistics for Data Science with Python
 5. Databases and SQL for Data Science with Python
 
+***
+
+# Imperial College London
+## Mathematics for Machine Learning Specialization
+1. Mathematics for Machine Learning Linear Algebra
+2. Mathematics for Machine Learning Multivariate Calculus
+3. Mathematics for Machine Learning PCA
 
 
+***
 
+## SuperDataScience
+1.Power BI A-Z Hands-On
+2.
 
+## 365 Data Science Courses
+1.Introduction to Data Visualization
+2.
 
+## Zero to Mastery Courses
+1.Learning to Learn
+2.
 
+## Udemy Courses
+1.Microsoft Certified Data Analyst Associate with Power BI
+2.
 
 ***
