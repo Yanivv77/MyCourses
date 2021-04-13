@@ -79,19 +79,19 @@
 ***
 
 ## SuperDataScience
-1.Power BI A-Z Hands-On
+1. Power BI A-Z Hands-On
 
 
 ## 365 Data Science Courses
-1.Introduction to Data Visualization
+1. Introduction to Data Visualization
 
 
 ## Zero to Mastery Courses
-1.Learning to Learn
+1. Learning to Learn
 
 
 ## Udemy Courses
-1.Microsoft Certified Data Analyst Associate with Power BI
+1. Microsoft Certified Data Analyst Associate with Power BI
 
 
 ***
