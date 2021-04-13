@@ -1,5 +1,5 @@
 ## MyCourses
-
+***
 
 # Google
 ## Google Data Analytics Professional Certificate
@@ -7,7 +7,7 @@
 2. Ask Questions Make Decisions
 3. 
 4. 
-
+***
 
 
 
@@ -18,7 +18,7 @@
 3. Applied Machine Learning in Python
 4. Applied Text Mining in Python
 5. Applied Social Network Analysis in Python
-
+***
 
 
 
@@ -44,4 +44,4 @@
 
 
 
-
+***
