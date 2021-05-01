@@ -5,8 +5,8 @@
 ## Data Analytics Professional Certificate
 1. Foundations Data, Data, Everywhere
 2. Ask Questions Make Decisions
-3. 
-4.
+3. Prepare Data for Exploration
+4. Process Data from Dirty to Clean
 5.
 6.
 7.
