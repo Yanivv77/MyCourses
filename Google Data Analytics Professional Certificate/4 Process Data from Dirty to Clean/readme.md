@@ -1,3 +1,5 @@
+![](certificate.PNG)
+
 ## [C​ourse 4 – Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data?specialization=google-data-analytic)
 
 This is the fourth course in the Google Data Analytics Certificate. These courses will equip you with the skills needed to apply to introductory-level data analyst jobs. In this course, you’ll continue to build your understanding of data analytics and the concepts and tools that data analysts use in their work. You’ll learn how to check and clean your data using spreadsheets and SQL as well as how to verify and report your data cleaning results. Current Google data analysts will continue to instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.
