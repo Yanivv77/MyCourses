@@ -8,7 +8,7 @@
 3. Prepare Data for Exploration
 4. Process Data from Dirty to Clean
 5. Analyze Data to Answer Questions
-6.
+6. Share Data Through the Art of Visualization
 7.
 8.
 
