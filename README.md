@@ -9,8 +9,8 @@
 4. Process Data from Dirty to Clean
 5. Analyze Data to Answer Questions
 6. Share Data Through the Art of Visualization
-7.
-8.
+7. Data Analysis with R Programming
+8. Google Data Analytics Capstone: Complete a Case Study
 
 ***
 
