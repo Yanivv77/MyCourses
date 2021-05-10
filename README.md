@@ -80,6 +80,7 @@
 
 ## SuperDataScience
 1. Power BI A-Z Hands-On
+2. Tableau 2020
 
 
 ## 365 Data Science Courses
